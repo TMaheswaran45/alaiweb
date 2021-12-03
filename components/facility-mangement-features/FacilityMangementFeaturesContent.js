@@ -125,11 +125,11 @@ export default function FacilityMangementFeaturesContent() {
                                 </div>
 
                                 <h3>Step 3:</h3>
-                                <img
+                                {/* <img
                                     src={require('../../static/images/facility-management-dashboard.jpg')}
                                     className="wow zoomIn"
                                     alt="image" 
-                                />
+                                /> */}
                                 <p>
                                     We give an attractive Dashboard for an Admin use it helps to admin can view complaints and assign to the concerned department, Once Issue solved both of admin and user got a notification.
 
